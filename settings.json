@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NOT_TOG.aternos.me:51306",
+    "ip": "NOT_TOG.aternos.me",
     "port": 51306,
     "version": "1.21.1"
   },
