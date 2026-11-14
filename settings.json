@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Mimikyu_Afk",
   "bot-account": {
-    "username": "Macho",
+    "username": "Mimikyu_Afk",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "NOT_TOG.aternos.me",
-    "port": 51306,
-    "version": "1.21.1"
+    "ip": "Mimikyu.mcsh.gg",
+    "port":,
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
